@@ -8,6 +8,7 @@
 </div>
 
 ---
+<!-- Badge unlock -->
 
 ## 📌 About Me
 
